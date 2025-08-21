@@ -1,7 +1,8 @@
 <!-- Profile Header -->
-<h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Rishabh+Jain+👋;Full+Stack+Developer;AI+%7C+ML+Enthusiast;Open+Source+Contributor;Tech+Explorer" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Rishabh+Jain;Full-Stack+Developer;CS+Undergrad;Chess+Player+♟;Tech+Enthusiast+🚀;Currently+Learning+Next.js+%7C+AWS+%7C+Docker" alt="Typing SVG" />
+</p>
+
 
 
 <p align="center">
