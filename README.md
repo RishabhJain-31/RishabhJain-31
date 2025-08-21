@@ -1,17 +1,19 @@
-<!-- Profile Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Rishabh+Jain;Full-Stack+Developer;CS+Undergrad;Chess+Player+♟;Tech+Enthusiast+🚀;Currently+Learning+Next.js+%7C+AWS+%7C+Docker" alt="Typing SVG" />
-</p>
+<h1 align="center"><b>HEY! I'm Rishabh Jain👋</b></h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=AI+Enthusiast;Full+Stack+Developer;Problem+Solver;Chess+Lover;Tech+Explorer" alt="Typing SVG" />
+</p>
 
 
 <p align="center">
   <a href="mailto:rishabhjainonly@gmail.com">
     <img src="https://img.shields.io/badge/Email-rishabhjainonly%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
+  <br>
   <a href="https://www.linkedin.com/in/rishabh-jain31">
     <img src="https://img.shields.io/badge/LinkedIn-Rishabh%20Jain-blue?style=for-the-badge&logo=linkedin" />
   </a>
+  <br>
   <a href="https://github.com/RishabhJain-31">
     <img src="https://img.shields.io/badge/GitHub-RishabhJain--31-black?style=for-the-badge&logo=github" />
   </a>
@@ -25,6 +27,12 @@
 - 🚀 Exploring **DSA**, **System Design**, and **Cloud**
 - 🌱 Currently learning **Next.js**, **AWS**, **Docker**
 - ✍ Love writing clean & scalable code
+
+---
+### ✨ **Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,docker,aws,git,github" />
+</p>
 
 ---
 
@@ -41,18 +49,19 @@
 
 ---
 
-## 📂 **Projects**
-<p align="center">
-  <a href="https://github.com/RishabhJain-31?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20My%20Projects-Click%20Here-brightgreen?style=for-the-badge&logo=github" />
-  </a>
-</p>
+### 🛠 Workflow Overview
+```mermaid
+flowchart TD
+    A[HEY! I'm Rishabh Jain] --> B[AI Enthusiast 🤖]
+    A --> C[Full Stack Developer 💻]
+    A --> D[Open Source Contributor 🌍]
+    B --> E[Machine Learning]
+    B --> F[NLP & RAG Systems]
+    C --> G[React]
+    C --> H[FastAPI, Node.js, Express]
+    D --> I[LangChain & LlamaIndex Projects]
 
-- 🔗 [**SmartNeev - AI Real Estate Assistant**](#)  
-- 🔗 [**Personal Portfolio**](#)  
-- 🔗 [**Chess AI Bot**](#)
-
----
+```
 
 ## 📊 **GitHub Stats**
 <p align="center">
@@ -68,27 +77,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RishabhJain-31&bg_color=0f172a&color=38bdf8&line=22d3ee&point=facc15&area=true&hide_border=true" />
 </p>
 
----
-
-## 🐍 **Snake Animation**
-<p align="center">
-  <img src="https://github.com/RishabhJain-31/RishabhJain-31/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ---
 
-## 📜 **Download Resume**
+## **My Resume-
 <p align="center">
-  <a href="https://your-resume-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Resume-00F7FF?style=for-the-badge&logo=files&logoColor=white" />
+  <a href="https://drive.google.com/file/d/1NV0AoRg0JOUS1iY20wFZ4lhXANRLFUig/view?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-FF5722?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
 
----
 
-### ✨ **Tech Stack**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,docker,aws,git,github" />
-</p>
-
----
