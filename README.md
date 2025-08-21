@@ -1,7 +1,8 @@
 <!-- Profile Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Rishabh+Jain+👋;CS+Undergrad+%7C+Full-Stack+Developer;Passionate+about+DSA+%26+Cloud;Chess+Player+%7C+Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Rishabh+Jain+👋;Full+Stack+Developer;AI+%7C+ML+Enthusiast;Open+Source+Contributor;Tech+Explorer" alt="Typing SVG" />
 </h1>
+
 
 <p align="center">
   <a href="mailto:rishabhjainonly@gmail.com">
